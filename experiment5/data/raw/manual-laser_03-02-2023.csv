@@ -1,0 +1,39 @@
+Experiment,5 Rubidium,,,,,,
+Date,3/5/2023,,,,,,
+Name,Dillon Walton,,,,,,
+,,,,,,,
+Conditions,Otherwise normal,,,,,,
+Photodiode Gain,10^4,,,,,,
+,,,,,,,
+current (mA),photodiode power (mV),uncert ,pk-pk,uncert,max,uncert,comments
+0,1.54,0.01,,,,,noise
+10,1.75,0.01,2.5,0.3,2.96,0.3,
+20,2.18,0.01,2.6,0.6,3.5,0.5,no visibility
+30,2.81,0.01,2.8,0.6,4.24,0.5,no visibility
+40,3.64,0.01,2.6,0.6,4.95,0.25,no visibility
+50,4.76,0.2,2.6,0.6,6,25,no visibility
+55.9,32.1,0,13,2.5,39.2,3,visibility small dot
+60,117,1,12,2,124,2,dot not much larger
+65.7,248,,16,,256,,double dot visible
+70,377,1,16,0,384,0,dot not much larger
+75.8,502,0,16,8,508,4,dot not much larger
+80.2,615,0,16,8,624,0,
+90.8,887,1,50,10,910,10,
+96.8,1000,,50,10,1030,10,Measurement of 1V on photodiode
+100.1,1070,,60,,1010,,
+107.9,1240,,50,10,1260,,
+113,1340,,50,10,1380,,beginning of resonance 1
+113.5,1320,,50,10,1340,,strong resonance 1
+114.1,1370,,,,1390,10,end of resonance 1
+115.1,1380,,,,1410,10,beginning of resonance 2
+115.7,1280,,,,1320,,strong 2
+116.2,1400,,,,1430,,end 2
+117.6,1440,,,,1460,,beginning 3
+118.3,1200,,40,,1220,,"peak 3, peak to peak drops"
+118.8,1440,,50,,1460,,end 3
+118.9,1430,,,,1460,,beginning 4
+119.2,1330,,60,,1360,,peak 4
+119.9,1480,,50,,1510,10,end 4
+120.5,1500,,50,,1520,,
+124.9,1580,,50,,1620,,
+130,1740,,60,,1760,,
